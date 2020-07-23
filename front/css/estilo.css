@@ -1,0 +1,17 @@
+body,html{
+    height: 100%;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+
+/* .row{
+    background-color: red;
+} */
+
+img{
+    height: 130px;
+    width: 120px;
+}
